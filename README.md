@@ -1,4 +1,4 @@
-### Opa, sinta-se em CAdigo 🏘️
+### Opa, sinta-se em código
 
 ##
 
@@ -33,6 +33,6 @@
   <a href = "mailto:felipeandradecastro548@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="www.linkedin.com/in/felipe-andrade-de-castro-970973159" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/flpeandrade/flpeandrade/blob/output/github-contribution-grid-snake.svg)
  
 </div>
