@@ -1,4 +1,4 @@
-### Opa, sinta-se em código
+### Olá, seja bem vindos(as) a fetrix 💻
 
 ##
 
