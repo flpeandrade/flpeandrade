@@ -1,4 +1,4 @@
-### Olá, seja bem vindos(as) a fetrix 💻
+### Olá, sejam bem vindes a fetrix 💻
 
 ##
 
