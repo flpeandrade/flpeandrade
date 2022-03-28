@@ -1,7 +1,8 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Olá, sejam bem vindes a fetrix <img src="https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif" width="20"><br><br>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20"> Olá, sejam bem vindes a fetrix <img src="https://c.tenor.com/IvyuPtEfzhoAAAAC/matrix.gif" width="20"><br>
 
+##
 
-<div align="center">
+<br><div align="center">
   <a href="https://github.com/flpeandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flpeandrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flpeandrade&layout=compact&langs_count=7&theme=github_dark"/>
