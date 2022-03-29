@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/header.gif" alt="Oi, eu sou a Felipe">
+  <img src="https://github.com/flpeandrade/flpeandrade/raw/main/aassets/apresentação.gif" alt="Oi, eu sou a Felipe">
 </p>
 
 ##
