@@ -30,12 +30,13 @@
   <a href = "mailto:felipeandradecastro548@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/felipe-andrade-970973159/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   #
- 
-  ![Snake animation](https://github.com/flpeandrade/flpeandrade/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
   <div style="display: inline_block;" align="center"><br>
   <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif1.gif">
   <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif2.gif">
   <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif3.gif">
 </div><br>
+ 
+  #
+  
+  ![Snake animation](https://github.com/flpeandrade/flpeandrade/blob/output/github-contribution-grid-snake.svg)
+ 
