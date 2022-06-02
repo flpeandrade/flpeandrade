@@ -35,8 +35,6 @@
   <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif2.gif">
   <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif3.gif">
 </div><br>
- 
-  #
   
   ![Snake animation](https://github.com/flpeandrade/flpeandrade/blob/output/github-contribution-grid-snake.svg)
  
