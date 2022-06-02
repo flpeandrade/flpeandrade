@@ -23,9 +23,9 @@
   <img align="center" alt="Fe-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div><br>
   <div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif1">
-  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif2">
-  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif3">
+  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif1.gif">
+  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif2.gif">
+  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif3.gif">
 </div><br>
   
   ##
