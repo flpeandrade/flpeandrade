@@ -23,9 +23,9 @@
   <img align="center" alt="Fe-mongo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
 </div><br>
   <div style="display: inline_block;" align="center"><br>
-  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://64.media.tumblr.com/tumblr_lme283SjN01qbdwboo1_500.gif">
-  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://pa1.narvii.com/6800/4237f889ef0ebc9a19afc93c55dad0f3cea94649_hq.gif">
-  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="http://1.bp.blogspot.com/-1MQ3X-0-Kb0/Tc8lz_hZvdI/AAAAAAAAATI/WdkRR0FLuH4/s1600/tumblr_li63m5ecjd1qd4264o1_500.gif">
+  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif1">
+  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif2">
+  <img align="center" alt="cão-gif" height="150" style="border-radius:50px;" src="https://github.com/flpeandrade/flpeandrade/raw/main/assets/gif3">
 </div><br>
   
   ##
