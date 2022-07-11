@@ -1,5 +1,5 @@
 
-<h1 align=center><img src="https://readme-typing-svg.herokuapp.com?size=25&color=787B85&center=verdadeiro&vCenter=verdadeiro&width=440&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Felipe;Sou+Desenvolvedor+Full+Stack++Jr+;Sejam+Bem+vindos(a)!+%E2%9D%A4%EF%B8%8F" alt="Eu"></h1>
+<h1 align=center><img src="ttps://readme-typing-svg.herokuapp.com?size=25&color=329A18&center=verdadeiro&vCenter=verdadeiro&width=580&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Felipe;Sou+Desenvolvedor+Full+Stack++Jr++%F0%9F%9A%80;Sejam+Bem+vindos(a)+a+minha+Matrix!+%E2%9D%A4%EF%B8%8F%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Eu"></h1>
 
 <br><div align="center">
   <a href="https://github.com/flpeandrade">
