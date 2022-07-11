@@ -1,6 +1,5 @@
 
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&color=787B85&center=verdadeiro&vCenter=falso&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Felipe;Sou+Desenvolvedor+Full+Stack++Jr+;Sejam+Bem+vindos(a)!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
-
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=787B85&center=verdadeiro&vCenter=verdadeiro&width=440&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Felipe;Sou+Desenvolvedor+Full+Stack++Jr+;Sejam+Bem+vindos(a)!+%E2%9D%A4%EF%B8%8F)](https://git.io/typing-svg)
 ##
 
 <br><div align="center">
