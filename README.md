@@ -1,8 +1,6 @@
 
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?size=25&color=787B85&center=verdadeiro&vCenter=verdadeiro&width=440&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Felipe;Sou+Desenvolvedor+Full+Stack++Jr+;Sejam+Bem+vindos(a)!+%E2%9D%A4%EF%B8%8F" alt="Eu"></h1>
 
-#
-
 <br><div align="center">
   <a href="https://github.com/flpeandrade">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flpeandrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
