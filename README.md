@@ -1,6 +1,7 @@
 
 <h1 align=center><img src="https://readme-typing-svg.herokuapp.com?size=25&color=329A18&center=verdadeiro&vCenter=verdadeiro&width=580&lines=Ol%C3%A1%2C+Meu+nome+%C3%A9+Felipe;Sou+Desenvolvedor+Full+Stack++Jr++%F0%9F%9A%80;Sejam+Bem+vindos(a)+a+minha+Matrix!+%E2%9D%A4%EF%B8%8F%F0%9F%91%A8%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB" alt="Eu"></h1>
 <br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&stats_format=bytes)
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Fe-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
   <img align="center" alt="Fe-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
